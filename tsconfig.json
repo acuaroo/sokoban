@@ -3,6 +3,7 @@
 		"target": "es6",
 		"moduleResolution": "node",
 		"checkJs": true,
+		"outDir": "dist",
 		"esModuleInterop": true
 	}
 }
